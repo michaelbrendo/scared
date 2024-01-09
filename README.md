@@ -1,6 +1,6 @@
 # scared
 
-***:rocket: Play here -  [scared](https://michaelbrendo.itch.io/).***
+***:rocket: Play here -  [scared](https://michaelbrendo.itch.io/scared).***
 
 **A Developer's Journey from Tutorials to Creation**
 
