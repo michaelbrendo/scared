@@ -6729,6 +6729,7 @@ GameObject:
   - component: {fileID: 330455651}
   - component: {fileID: 330455653}
   - component: {fileID: 330455652}
+  - component: {fileID: 330455654}
   m_Layer: 5
   m_Name: ExitImageBackground
   m_TagString: Untagged
@@ -6794,6 +6795,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330455650}
   m_CullTransparentMesh: 1
+--- !u!225 &330455654
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330455650}
+  m_Enabled: 1
+  m_Alpha: 0
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &762485236
 GameObject:
   m_ObjectHideFlags: 0
