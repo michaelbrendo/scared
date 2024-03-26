@@ -1,0 +1,4 @@
+repository "scared@Mtfg@cloud"
+  path "/"
+    br "/main"
+    co "/main"
