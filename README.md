@@ -3,13 +3,16 @@
 
 ***:rocket: Play here -  [scared](https://michaelbrendo.itch.io/scared)***
 
-**A Developer's Journey from Tutorials to Creation**
-
-**After pausing game development to study in Malta, I found my passion again and started learning.**
+A Developer's Journey from Tutorials to Creation
+After pausing game development to study in Malta, I found my passion again and started learning.
 
 **A Spine-tingling Adventure**
 
 > Enter the haunted hotel, where you'll navigate through dark corridors, solve puzzles, and avoid the watchful gaze of ghosts as you follow fearless protagonist John Lemon.
+
+<p align="center">
+<img src="\Assets\UnityTechnologies\Ultils\IMGs\Scared.gif" >
+</p>
 
 **Step into a Captivating World**
 
@@ -36,9 +39,6 @@
 **Future Updates**
 
 > This project is still ongoing, and I plan to continue developing and refining the game based on feedback and further learning experiences. Stay tuned for updates and the release of the full game.
-
-
-<img src="\Assets\UnityTechnologies\Ultils\IMGs\Scared.gif" >
 
 ***
 
