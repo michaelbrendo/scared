@@ -11,7 +11,7 @@ After pausing game development to study in Malta, I found my passion again and s
 > Enter the haunted hotel, where you'll navigate through dark corridors, solve puzzles, and avoid the watchful gaze of ghosts as you follow fearless protagonist John Lemon.
 
 <p align="center">
-<img src="\Assets\UnityTechnologies\Ultils\IMGs\Scared.gif" >
+<img src="\Assets\UnityTechnologies\Ultils\IMGs\Scared.gif" width="100%" height="250">
 </p>
 
 **Step into a Captivating World**
