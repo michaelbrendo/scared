@@ -1,6 +1,7 @@
-# scared
+# scared - John Lemon's Haunted Jaunt
 
-***:rocket: Play here -  [scared](https://michaelbrendo.itch.io/scared).***
+***:rocket: Play here -  [scared](https://michaelbrendo.itch.io/scared){:target="_blank"}.***
+<img title="a title" alt="Alt text" src="\Assets\UnityTechnologies\Ultils\IMGs\jl.png">
 
 **A Developer's Journey from Tutorials to Creation**
 
