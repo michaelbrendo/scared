@@ -1,5 +1,5 @@
 # Scared - John Lemon's Haunted Jaunt
-<img src="\Assets\UnityTechnologies\Ultils\IMGs\Scared-banner-2.png" width="100%" height="150">
+<img src="\Assets\UnityTechnologies\Ultils\IMGs\Scared-banner-2.png" width="100%" height="270">
 
 ***:rocket: Play here -  [scared](https://michaelbrendo.itch.io/scared)***
 
