@@ -1,10 +1,7 @@
-# scared - John Lemon's Haunted Jaunt
+# Scared - John Lemon's Haunted Jaunt
+<img src="\Assets\UnityTechnologies\Ultils\IMGs\Scared-banner.png" width="100%" height="450">
 
-***:rocket: Play here -  [scared]().***
-
-***:rocket: Play here - <a href="https://michaelbrendo.itch.io/scared/" target="_blank">scared</a>***
-
-<img title="a title" alt="Alt text" src="\Assets\UnityTechnologies\Ultils\IMGs\jl.png">
+***:rocket: Play here -  [scared](https://michaelbrendo.itch.io/scared)***
 
 **A Developer's Journey from Tutorials to Creation**
 
@@ -39,6 +36,9 @@
 **Future Updates**
 
 > This project is still ongoing, and I plan to continue developing and refining the game based on feedback and further learning experiences. Stay tuned for updates and the release of the full game.
+
+
+<img src="\Assets\UnityTechnologies\Ultils\IMGs\Scared.gif" >
 
 ***
 
